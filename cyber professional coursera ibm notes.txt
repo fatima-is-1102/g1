@@ -1,0 +1,68 @@
+Course Summary  
+Congratulations! At the end of the course, you know:
+
+Module 1: Cybersecurity Careers
+
+Cybersecurity as a profession brings corresponding financial rewards and associated responsibilities.
+
+Contenders can be from non-technical backgrounds, such as veterans, armed forces, security personnel, law enforcement officers, project managers, and tech writers.
+
+Those working in technical jobs such as IT support, helpdesk, software developers, and networking specialists may find a smooth transition to the cybersecurity field.
+
+Cybersecurity aspirants should undergo online courses, certification and diploma programs, boot camps, and internships.
+
+A Cybersecurity Specialist establishes and implements security protocols to protect systems and data.
+
+A Cybercrime Analyst identifies patterns and predicts future attacks based on historical data and current trends.
+
+An Incident and Intrusion Analyst focuses on handling and investigating incidents of security breaches.
+
+IT Auditors are responsible for examining and evaluating an organization’s IT systems, practices, and operations to ensure compliance with laws and industry standards.
+
+Mid-level roles are Cybersecurity Analyst, Cybersecurity Consultant, and Penetration and Vulnerability Tester.
+
+A Cybersecurity Manager develops and implements security policies, manages a team of cybersecurity professionals, and liaises with senior management on all security-related issues.
+
+A Chief Information Security Officer (CISO) oversees the deployment of security technologies and ensures their effectiveness through regular audits and testing.
+
+A Cybersecurity Engineer designs and creates secure networks, systems, and application architectures.
+
+Cybersecurity Architects develop a comprehensive framework detailing how various security elements will interact and support each other.
+
+Module 2: Cybersecurity Skills
+
+Understanding information security and assurance, security operations, and cryptography are just a few of the critical skills for cyber professionals.
+
+The critical competencies needed for a cybersecurity professional can be categorized into six main areas: operating system knowledge, networking principles, programming basics, database understanding, cloud-related concepts, and information systems.
+
+Crucial skills required in the cybersecurity field include technical expertise, creative thinking, critical thinking, problem-solving, communication, teamwork, leadership, and research.
+
+Module 3: Cybersecurity Certifications
+
+Cybersecurity certifications offer many benefits, from serving as an alternative to degrees, advancing careers, and enabling personal validation and community building.
+
+GIAC, ISACA, EC-Council, and various industry-specific organizations provide Cybersecurity certifications.
+
+They are designed for professionals, including investigators, IT and security professionals, lawyers, health information managers, medical records supervisors, and individuals seeking to excel in cybersecurity leadership roles.
+
+Industry-specific certifications are also available for different sectors, including healthcare, banking, payment security, and critical infrastructure.
+
+Preparing for a cybersecurity certification exam involves careful planning, active engagement with study materials, regular practice exams, participation in study groups or online communities, and maintaining a healthy balance of rest and relaxation.
+
+Once prepared, schedule your exam through the official certification website, ensuring your testing environment (online or proctored) is suitable and distraction-free.
+
+Upon passing, add this valuable certification to your resume and LinkedIn account to unlock numerous career opportunities.
+
+Module 4: Final Project and Assessment 
+
+In the final project, you will explore real Cybersecurity job postings, analyze them, and develop a plan to become job ready.
+
+While the final project is not graded and does not impact obtaining the course certificate, in the next course item, you can submit certain aspects about your job exploration and career plan development that you completed in the final project tasks and receive feedback from an AI-powered evaluator.
+
+Attempt a final assessment that will prepare you for the certification exam. 
+
+Experts share some tips on landing your first cybersecurity job. 
+
+Finally, a video answers your FAQs about cybersecurity and clarifies many doubts. 
+
+The final wrap-up comprises the next steps and thanks from the course team

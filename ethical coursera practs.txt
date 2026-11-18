@@ -1,0 +1,57 @@
+Microsoft Windows [Version 10.0.26100.2605]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\fatim>ping www.instagram.com
+
+Pinging z-p42-instagram.c10r.instagram.com [2a03:2880:f33e:20:face:b00c:0:4420] with 32 bytes of data:
+Reply from 2a03:2880:f33e:20:face:b00c:0:4420: time=146ms
+Reply from 2a03:2880:f33e:20:face:b00c:0:4420: time=143ms
+Reply from 2a03:2880:f33e:20:face:b00c:0:4420: time=34ms
+Reply from 2a03:2880:f33e:20:face:b00c:0:4420: time=144ms
+
+Ping statistics for 2a03:2880:f33e:20:face:b00c:0:4420:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 146ms, Average = 116ms
+
+C:\Users\fatim>ns lookup www.instagram.com
+'ns' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\fatim>nslookup www.instagram.com
+Server:  UnKnown
+Address:  192.168.67.215
+
+Non-authoritative answer:
+Name:    z-p42-instagram.c10r.instagram.com
+Addresses:  2a03:2880:f26e:e9:face:b00c:0:4420
+          157.240.237.174
+Aliases:  www.instagram.com
+
+
+C:\Users\fatim>tracet www.instagram.com
+'tracet' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\fatim>tracert www.instagram.com
+
+Tracing route to z-p42-instagram.c10r.instagram.com [2a03:2880:f26e:1e9:face:b00c:0:4420]
+over a maximum of 30 hops:
+
+  1    13 ms     7 ms     6 ms  2401:4900:57ed:c0e5::5d
+  2     *        *        *     Request timed out.
+  3     *        *       75 ms  2401:4900:0:ac2::1
+  4   214 ms   111 ms   314 ms  2401:4900:0:afe::3
+  5     *        *        *     Request timed out.
+  6    61 ms   154 ms   267 ms  2401:4900:80:8002::50a
+  7   162 ms    98 ms    96 ms  2404:a800:2a00::556
+  8   103 ms   206 ms   303 ms  2404:a800:2a00::555
+  9   286 ms   313 ms   431 ms  2404:a800::167
+ 10   214 ms   190 ms   218 ms  ae0.pr02.pnq1.tfbnw.net [2620:0:1cff:dead:beee::1614]
+ 11    76 ms   169 ms   203 ms  po102.psw04.pnq1.tfbnw.net [2620:0:1cff:dead:bef0::8b3]
+ 12   105 ms    92 ms   294 ms  po4.msw1av.02.pnq1.tfbnw.net [2a03:2880:f076:ffff::c7]
+ 13    89 ms   173 ms    40 ms  instagram-p426-shv-02-pnq1.fbcdn.net [2a03:2880:f26e:1e9:face:b00c:0:4420]
+
+Trace complete.
+
+C:\Users\fatim>
